@@ -35,6 +35,7 @@ namespace SecondWebApp.Controllers
             ViewBag.Product = product;
 
             //TempData["ProductName"] = ProductName;
+            //po
 
             return View();
         }
